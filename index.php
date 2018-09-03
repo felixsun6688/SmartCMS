@@ -12,4 +12,4 @@ echo "This is a cms";
 
 echo "hehe";
 
-echo "lala";
+echo "haha";
