@@ -6,4 +6,6 @@
  * Time: 23:28
  */
 
-echo "Hello,world";
+echo "Hello,world <br />";
+
+echo "This is a cms";
