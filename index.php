@@ -11,3 +11,5 @@ echo "Hello,world <br />";
 echo "This is a cms";
 
 echo "hehe";
+
+echo "haha";
